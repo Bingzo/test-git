@@ -1,5 +1,6 @@
 Practice of git operation
 ==================================
+README.md abides [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) syntax.
 [![image]](http://www.github.com/)
 [image]: http://github.com/github.png "github"
 ![github](https://github.global.ssl.fastly.net/images/modules/open_graph/github-logo.png)
