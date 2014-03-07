@@ -1,9 +1,10 @@
 Practice of git operation
 ==================================
 ### --Bingzo
+![github](https://github.global.ssl.fastly.net/images/modules/open_graph/github-logo.png)[image]: http://github.com/github.png "github"
 ----------------------------------
-    SSH:git@github.com:Bingzo/test-git.git
-    HTTP:https://github.com/Bingzo/test-git.git
+    [SSH site: git@github.com:Bingzo/test-git.git](git@github.com:Bingzo/test-git.git)<br />
+    [HTTP site: https://github.com/Bingzo/test-git.git](https://github.com/Bingzo/test-git.git)<br />
 ----------------------------------
 
 ### Generate a new SSH key
