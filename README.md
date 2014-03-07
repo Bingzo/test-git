@@ -1,9 +1,8 @@
 Practice of git operation
 ==================================
-### --Bingzo
-![github](https://github.global.ssl.fastly.net/images/modules/open_graph/github-logo.png)
 [![image]](http://www.github.com/)
-[image]: http://github.com/github.png "github"
+[image]: http://github.com/github.png "github" Bingzo
+![github](https://github.global.ssl.fastly.net/images/modules/open_graph/github-logo.png)
 ----------------------------------
     [SSH site: git@github.com:Bingzo/test-git.git](git@github.com:Bingzo/test-git.git)<br />
     [HTTP site: https://github.com/Bingzo/test-git.git](https://github.com/Bingzo/test-git.git)<br />
