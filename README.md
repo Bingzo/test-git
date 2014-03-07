@@ -1,6 +1,6 @@
 Practice of git operation
 ==================================
-  --Bingzo
+### --Bingzo
 ----------------------------------
     SSH:git@github.com:Bingzo/test-git.git
     HTTP:https://github.com/Bingzo/test-git.git
