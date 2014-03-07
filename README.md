@@ -1,13 +1,12 @@
 Practice of git operation
 ==================================
   --Bingzo
+----------------------------------
     SSH:git@github.com:Bingzo/test-git.git
     HTTP:https://github.com/Bingzo/test-git.git
-
-
+----------------------------------
 
 ### Generate a new SSH key
-----------------------------------
     ssh-keygen -C 'zhouxxxxxxx@gmail.com' -t rsa 
 
 ### Create a new repository on the command line
