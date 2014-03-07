@@ -1,7 +1,7 @@
 Practice of git operation
 ==================================
 README.md abides [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) syntax.<br />
-[git-guid](http://rogerdudler.github.io/git-guide/)<br />
+The guide of git operation can be found in [git-guid](http://rogerdudler.github.io/git-guide/).<br />
 [![image]](http://www.github.com/)
 [image]: http://github.com/github.png "github"
 ![github](https://github.global.ssl.fastly.net/images/modules/open_graph/github-logo.png)<br />
