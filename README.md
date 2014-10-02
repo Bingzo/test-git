@@ -25,6 +25,7 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
 ### Some commands
 ----------------------------------
     git log
+    git log --pretty=oneline
     git log -p -2
     git log --stat
     git remote -v
