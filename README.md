@@ -5,6 +5,7 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
 ![alt text](https://avatars0.githubusercontent.com/u/9919?v=2 "github")<br />
 [SSH site: git@github.com:Bingzo/test-git.git](git@github.com:Bingzo/test-git.git)<br />
 [HTTP site: https://github.com/Bingzo/test-git.git](https://github.com/Bingzo/test-git.git)<br />
+[A good reference: http://igit.linuxtoy.org/contents.html](http://igit.linuxtoy.org/contents.html)/<br />
 
 ### Generate a new SSH key
 ----------------------------------
@@ -42,3 +43,7 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
 
     git push origin master ==> git push origin master:master # push [local]master to [remote]origin/master
     git push origin test:test
+
+    git checkout <hash>    # check out old versions
+    git checkout -b new_branch_name    # create a new branch to retain
+    git checkout master
