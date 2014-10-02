@@ -29,8 +29,7 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
     git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
     man git-log
     git log
-# log recent two commits
-    git log -p -2
+    git log -p -2     # log recent two commits
     git log --stat
     git log --pretty=oneline
     git log --pretty=oneline --max-count=2
@@ -45,6 +44,5 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
     git status
     git commit --amend
 
-# push [local]master to [remote]origin/master
-    git push origin master ==> git push origin master:master
+    git push origin master ==> git push origin master:master # push [local]master to [remote]origin/master
     git push origin test:test
