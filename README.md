@@ -2,7 +2,9 @@ Practice of git operation
 ==================================
 README.md abides [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) syntax.<br />
 The guide of git operation can be found in [git-guid](http://rogerdudler.github.io/git-guide/).<br />
+https://avatars0.githubusercontent.com/u/9919?v=2
 ![alt text](http://github.com/github.png "github")
+![alt text](https://avatars0.githubusercontent.com/u/9919?v=2 "github")
 [SSH site: git@github.com:Bingzo/test-git.git](git@github.com:Bingzo/test-git.git)<br />
 [HTTP site: https://github.com/Bingzo/test-git.git](https://github.com/Bingzo/test-git.git)<br />
 
