@@ -24,10 +24,27 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
     git push -u origin master
 ### Some commands
 ----------------------------------
+    git add -p
+
+    git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+    man git-log
     git log
-    git log --pretty=oneline
+# log recent two commits
     git log -p -2
     git log --stat
+    git log --pretty=oneline
+    git log --pretty=oneline --max-count=2
+    git log --pretty=oneline --since='5 minutes ago'
+    git log --pretty=oneline --until='5 minutes ago'
+    git log --pretty=oneline --author=Bingzo
+    git log --pretty=oneline --all
+    git log --follow file.c
+    git lot branch --not master
+
     git remote -v
     git status
     git commit --amend
+
+# push [local]master to [remote]origin/master
+    git push origin master ==> git push origin master:master
+    git push origin test:test
