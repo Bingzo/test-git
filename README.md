@@ -47,3 +47,9 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
     git checkout <hash>    # check out old versions
     git checkout -b new_branch_name    # create a new branch to retain
     git checkout master
+
+    git checkout -- <filename> # replaces local changes with HEAD
+
+    git fetch origin
+    git reset --hard origin/master # fetch the latest history from the server
+
