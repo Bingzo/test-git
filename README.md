@@ -42,7 +42,7 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
     git status
     git commit --amend
 
-    git push origin master ==> git push origin master:master # push [local]master to [remote]origin/master
+    git push +u origin master ==> git push origin master:master # push [local]master to [remote]origin/master
     git push origin test:test
 
     git checkout <hash>    # check out old versions
