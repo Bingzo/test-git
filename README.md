@@ -16,7 +16,7 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
     touch README.md
     git init
     git add README.md
-    git commit -m "first commit"
+    git commit -am "first commit"
     git remote add origin git@github.com:Bingzo/test-git.git
     git push -u origin master
 ### Some commands
