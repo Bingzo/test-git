@@ -37,6 +37,7 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
     git log --follow file.c
     git log branch --not master
 
+    git remote add origin [server addr]
     git remote -v
     git status
     git commit --amend
