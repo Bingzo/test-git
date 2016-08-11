@@ -35,7 +35,7 @@ The guide of git operation can be found in [git-guid](http://rogerdudler.github.
     git log --pretty=oneline --author=Bingzo
     git log --pretty=oneline --all
     git log --follow file.c
-    git lot branch --not master
+    git log branch --not master
 
     git remote -v
     git status
